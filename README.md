@@ -12,7 +12,8 @@ A web application that takes a mathematical expression as input, evaluates it co
 
 ## Demo
 
-![Demo GIF](https://via.placeholder.com/500)  
+![Demo GIF](![Screenshot 2025-02-03 134643](https://github.com/user-attachments/assets/bad2b176-97df-4959-8b1e-9df5154042c3)
+)  
 *Include a link or gif showcasing the project in action!*
 
 ## Tech Stack
